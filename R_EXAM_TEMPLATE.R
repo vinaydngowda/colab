@@ -1,6 +1,6 @@
-a = 1
-b = 2
-a + b
+c = 3
+d = 4
+c*d
 library("caTools")
 dt<-read.csv("C:\\Users\\Chaithra\\Downloads\\data for the exam0519-20190518 (1)\\Spam.csv")
 dt
